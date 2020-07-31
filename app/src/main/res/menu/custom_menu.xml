@@ -6,4 +6,11 @@
     <item
         android:id="@+id/mnuLogin"
         android:title="Login"/>
+    <item
+        android:id="@+id/mnuContect"
+        android:title="Contect"/>
+    <item
+        android:id="@+id/mnuAbout"
+        android:title="About"/>
+
 </menu>
